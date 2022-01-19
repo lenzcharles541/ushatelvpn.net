@@ -2,9 +2,9 @@
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
 HOST='209.159.152.66';
-USER='crypticv_fplusvpnapp';
-PASS='@@F1r3n3t@@';
-DBNAME='crypticv_fplusvpnapp';
+USER='crypticv_ushatel';
+PASS='@@@@F1r3n3t';
+DBNAME='crypticv_ushatel';
 
 install_require()
 {
